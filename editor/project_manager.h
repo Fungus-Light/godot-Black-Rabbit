@@ -52,7 +52,7 @@ class ProjectManager : public Control {
 	Button *rename_btn;
 	Button *run_btn;
 
-	EditorAssetLibrary *asset_library;
+	//EditorAssetLibrary *asset_library;
 
 	ProjectListFilter *project_filter;
 	ProjectListFilter *project_order_filter;
@@ -65,7 +65,7 @@ class ProjectManager : public Control {
 	ConfirmationDialog *multi_run_ask;
 	ConfirmationDialog *multi_scan_ask;
 	ConfirmationDialog *ask_update_settings;
-	ConfirmationDialog *open_templates;
+	//ConfirmationDialog *open_templates;
 	AcceptDialog *run_error_diag;
 	AcceptDialog *dialog_error;
 	ProjectDialog *npdialog;
