@@ -1,9 +1,9 @@
 short_name = "black_rabbit"
 name = "Black Rabbit Engine"
-major = 3
-minor = 2
-patch = 2
-status = "beta"
+major = 1
+minor = 0
+patch = 0
+status = "alpha"
 module_config = ""
 year = 2020
 website = "https://godotengine.org"
