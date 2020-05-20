@@ -1,9 +1,9 @@
-short_name = "godot"
-name = "Godot Engine"
-major = 3
-minor = 2
-patch = 1
-status = "stable"
+short_name = "BLRB"
+name = "Black-Rabbit"
+major = 1
+minor = 0
+patch = 0
+status = "alpha"
 module_config = ""
 year = 2020
 website = "https://godotengine.org"
